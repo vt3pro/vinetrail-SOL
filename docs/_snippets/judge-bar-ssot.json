@@ -1,0 +1,7 @@
+{
+  "testFiles": 10,
+  "testCount": 32,
+  "testCommand": "pnpm test",
+  "demoCommand": "pnpm test",
+  "adversarialSubsetNote": "Solana SKU — vinetrail org SSOT, soil, severance, venue mandate, toxic corpus, sdk export, jito bundle guard"
+}

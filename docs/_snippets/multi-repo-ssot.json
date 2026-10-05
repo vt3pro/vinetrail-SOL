@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 3,
+  "githubOrg": "vinetrail",
+  "telemetry": {
+    "healthUpstream": "https://slivervine.xyz/api/telemetry/health"
+  },
+  "hud": {
+    "ciCanaryId": "vinetrail-Solana"
+  },
+  "sharedCore": {
+    "crateName": "vinetrail_core",
+    "submodulePath": "crates/vinetrail_core",
+    "wasmArtifact": "pkg/vinetrail_core.wasm",
+    "wasmAbiVersion": 2,
+    "wasmAbiVersionSource": "crates/vinetrail_core/src/eval.rs"
+  },
+  "skuRepos": [
+    {
+      "repoSlug": "vinetrail-Solana",
+      "githubUrl": "https://github.com/vinetrail/vinetrail-Solana",
+      "riskAuditVenue": "solana",
+      "runtime": "SVM",
+      "status": "active",
+      "npmPackage": "@vinetrail/vinetrail-solana",
+      "adapterModuleId": "vinetrail_solana_inspector",
+      "deliverablesGithubPath": "docs/submission/ONE_PAGER.md"
+    },
+    {
+      "repoSlug": "vinetrail-hyperliquid",
+      "githubUrl": "https://github.com/vinetrail/vinetrail-hyperliquid",
+      "riskAuditVenue": "hyperliquid",
+      "runtime": "HyperliquidL1AppChain",
+      "status": "planned",
+      "adapterModuleId": "vinetrail_hyperliquid_probe"
+    },
+    {
+      "repoSlug": "vinetrail-tempo",
+      "githubUrl": "https://github.com/vinetrail/vinetrail-tempo",
+      "riskAuditVenue": "tempo",
+      "runtime": "EVM_Tempo_ISO20022",
+      "status": "planned",
+      "adapterModuleId": "vinetrail_tempo_iso20022"
+    }
+  ]
+}

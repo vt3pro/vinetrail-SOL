@@ -1,0 +1,2055 @@
+{
+  "source": "docs/Internal/assest/20260924_ZeroDev_155928_Export.MP3",
+  "model": "medium",
+  "language": "en",
+  "duration_sec": 2221.419,
+  "transcribed_at": "2026-09-24T08:53:11.502880Z",
+  "segment_count": 409,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "And click make unique this is going to create."
+    },
+    {
+      "start": 4.08,
+      "end": 7.6,
+      "text": "A new material that is not linked to the rest of the scene."
+    },
+    {
+      "start": 7.6,
+      "end": 12.08,
+      "text": "Where i can change the color so then i click the material to expand it."
+    },
+    {
+      "start": 12.08,
+      "end": 16.56,
+      "text": "Go to the albio category and i'm going to click the color slot."
+    },
+    {
+      "start": 16.56,
+      "end": 19.76,
+      "text": "And change the color to something like yellow."
+    },
+    {
+      "start": 19.76,
+      "end": 23.68,
+      "text": "For example to make it a bit brighter so you can see that now."
+    },
+    {
+      "start": 23.68,
+      "end": 27.68,
+      "text": "The material i could edit without changing the color of other."
+    },
+    {
+      "start": 27.68,
+      "end": 32.16,
+      "text": "Platforms if i select my other platform that still has."
+    },
+    {
+      "start": 32.16,
+      "end": 37.12,
+      "text": "The material shared with the main platforms if i go change the albedo."
+    },
+    {
+      "start": 37.12,
+      "end": 42.48,
+      "text": "Color it's going to change in sync on every platform."
+    },
+    {
+      "start": 42.48,
+      "end": 45.44,
+      "text": "Let's now see how to save materials to make them."
+    },
+    {
+      "start": 45.44,
+      "end": 51.68,
+      "text": "Easier to edit anytime and also to reuse across game levels more easily."
+    },
+    {
+      "start": 51.68,
+      "end": 55.52,
+      "text": "So select the bridge i'm going to select the one with the yellow."
+    },
+    {
+      "start": 55.6,
+      "end": 60.0,
+      "text": "Material and in the inspector right click on the material and select."
+    },
+    {
+      "start": 60.0,
+      "end": 65.87,
+      "text": "Save as this allows us to save the material as a file."
+    },
+    {
+      "start": 65.87,
+      "end": 69.07,
+      "text": "That we can edit anytime from the file system doc."
+    },
+    {
+      "start": 69.07,
+      "end": 79.09,
+      "text": "And reuse hello hello gm everyone hello hello."
+    },
+    {
+      "start": 79.09,
+      "end": 83.25,
+      "text": "Let's just wait a few more minutes to give people some time to join."
+    },
+    {
+      "start": 83.25,
+      "end": 283.84,
+      "text": "Yeah just two more minutes and then we can start."
+    },
+    {
+      "start": 283.84,
+      "end": 287.84,
+      "text": "Okay i think we can start um well thank you so much."
+    },
+    {
+      "start": 287.84,
+      "end": 290.88,
+      "text": "Everyone to be here uh welcome to another."
+    },
+    {
+      "start": 290.88,
+      "end": 296.16,
+      "text": "Workshop for uh open house uh super excited for this one."
+    },
+    {
+      "start": 296.16,
+      "end": 301.76,
+      "text": "And today and before we start just as a reminder to everyone if you."
+    },
+    {
+      "start": 301.76,
+      "end": 306.72,
+      "text": "Have any questions if you have if you need any technical support."
+    },
+    {
+      "start": 306.72,
+      "end": 310.88,
+      "text": "Don't forget that we have our open house channel on our discord."
+    },
+    {
+      "start": 310.88,
+      "end": 314.64,
+      "text": "Our dev rel team is there our engineers team is there."
+    },
+    {
+      "start": 314.64,
+      "end": 319.04,
+      "text": "So if you have any questions if you need any type of support or feedback."
+    },
+    {
+      "start": 319.04,
+      "end": 322.08,
+      "text": "About something just feel free to drop your."
+    },
+    {
+      "start": 322.08,
+      "end": 325.44,
+      "text": "Questions in the open house channel on our."
+    },
+    {
+      "start": 325.44,
+      "end": 329.6,
+      "text": "Discord after this workshop right now we are."
+    },
+    {
+      "start": 329.6,
+      "end": 334.72,
+      "text": "Going to have another workshop with gmx."
+    },
+    {
+      "start": 334.72,
+      "end": 342.4,
+      "text": "And now today we are here with kunal of chain labs engineer and today."
+    },
+    {
+      "start": 342.4,
+      "end": 346.08,
+      "text": "He's here to talk us about how to simplify."
+    },
+    {
+      "start": 346.08,
+      "end": 351.68,
+      "text": "On chain ux with zero def so welcome kunal super excited to have."
+    },
+    {
+      "start": 351.68,
+      "end": 358.26,
+      "text": "You here uh so take it away the floor yours."
+    },
+    {
+      "start": 358.26,
+      "end": 364.18,
+      "text": "Hey everyone um i work at off-chain labs and i work."
+    },
+    {
+      "start": 364.18,
+      "end": 369.54,
+      "text": "Specifically on zero def which is like a account abstraction."
+    },
+    {
+      "start": 369.54,
+      "end": 376.19,
+      "text": "Kit uh embedded wallets pass keys session keys."
+    },
+    {
+      "start": 376.19,
+      "end": 379.31,
+      "text": "Everything your app would need in production."
+    },
+    {
+      "start": 379.31,
+      "end": 385.79,
+      "text": "To have users which are not uh like who actually super users so."
+    },
+    {
+      "start": 385.79,
+      "end": 407.41,
+      "text": "I'll share my slideshow okay um."
+    },
+    {
+      "start": 407.41,
+      "end": 413.57,
+      "text": "Okay yeah so yeah uh so i guess today we'll be looking at."
+    },
+    {
+      "start": 413.57,
+      "end": 419.57,
+      "text": "Uh how we can make like a like on-chain application feel like more."
+    },
+    {
+      "start": 419.57,
+      "end": 425.09,
+      "text": "Like a normal product so i want to like give like more of."
+    },
+    {
+      "start": 425.09,
+      "end": 429.97,
+      "text": "An emphasis on like the user journey before we like talk of some of the."
+    },
+    {
+      "start": 429.97,
+      "end": 435.25,
+      "text": "Infrastructure and i guess as you're like watching it."
+    },
+    {
+      "start": 435.25,
+      "end": 440.53,
+      "text": "Keep in mind like how many times a user has to think about."
+    },
+    {
+      "start": 440.53,
+      "end": 448.77,
+      "text": "A like a wallet b like gas c network and d like a transaction."
+    },
+    {
+      "start": 448.77,
+      "end": 457.57,
+      "text": "Or like an approval um yeah so i i guess i i have also."
+    },
+    {
+      "start": 457.57,
+      "end": 467.22,
+      "text": "Like a live demoish thing but i'll show that too."
+    },
+    {
+      "start": 467.22,
+      "end": 475.66,
+      "text": "Uh sign out here so this is like r one of i realize i'm not sharing my."
+    },
+    {
+      "start": 475.66,
+      "end": 490.11,
+      "text": "Whole thing all right yeah this is like some."
+    },
+    {
+      "start": 490.11,
+      "end": 494.11,
+      "text": "Like this is like a very short demo i made."
+    },
+    {
+      "start": 494.11,
+      "end": 500.43,
+      "text": "My last minute but um so you have like this is like showing like the."
+    },
+    {
+      "start": 500.43,
+      "end": 504.83,
+      "text": "The passkey support we have for your app so you would have like some kind of."
+    },
+    {
+      "start": 504.83,
+      "end": 510.03,
+      "text": "Register passkey and let's say let's use this."
+    },
+    {
+      "start": 510.03,
+      "end": 516.37,
+      "text": "Now if it's a thing and i think we have to like."
+    },
+    {
+      "start": 516.37,
+      "end": 530.16,
+      "text": "Mint some demo usdc which element on like the background."
+    },
+    {
+      "start": 530.16,
+      "end": 538.22,
+      "text": "Reload this confirmation but this is actually on like the."
+    },
+    {
+      "start": 538.3,
+      "end": 543.5,
+      "text": "Arbitra mainnet and this is basically you know."
+    },
+    {
+      "start": 543.5,
+      "end": 547.42,
+      "text": "Step one is sort of like just deposit directly instead of you know."
+    },
+    {
+      "start": 547.42,
+      "end": 551.02,
+      "text": "Creating a private key create funding your account."
+    },
+    {
+      "start": 551.02,
+      "end": 554.86,
+      "text": "Instead of that let's say your app was some kind of like."
+    },
+    {
+      "start": 554.86,
+      "end": 560.94,
+      "text": "Like autopilot or something which uh was like oh you deposit into this and."
+    },
+    {
+      "start": 560.94,
+      "end": 563.5,
+      "text": "We sort of maintain a portfolio like some kind of."
+    },
+    {
+      "start": 563.5,
+      "end": 567.02,
+      "text": "Ai agent maintains a portfolio think about all the."
+    },
+    {
+      "start": 567.02,
+      "end": 571.34,
+      "text": "Times you need to approve the agent to send a."
+    },
+    {
+      "start": 571.34,
+      "end": 575.18,
+      "text": "Transaction but instead we could have something."
+    },
+    {
+      "start": 575.18,
+      "end": 578.62,
+      "text": "Like you have a passkey and then once you like deposit it."
+    },
+    {
+      "start": 578.62,
+      "end": 582.7,
+      "text": "You sort of have this enable autopilot thing which."
+    },
+    {
+      "start": 582.7,
+      "end": 586.38,
+      "text": "Uh let's say you know once you approve it."
+    },
+    {
+      "start": 586.38,
+      "end": 591.82,
+      "text": "And now you like transfer some amount uh and the agent itself has like."
+    },
+    {
+      "start": 591.82,
+      "end": 597.74,
+      "text": "Constraints and all of this is like on chain config so that you."
+    },
+    {
+      "start": 597.74,
+      "end": 601.5,
+      "text": "Know like let's say some of ZeroDevs infra was."
+    },
+    {
+      "start": 601.5,
+      "end": 604.54,
+      "text": "Compromised in that case you'll still be able to use."
+    },
+    {
+      "start": 604.54,
+      "end": 609.74,
+      "text": "All of this like code is open source and all of it is also."
+    },
+    {
+      "start": 609.74,
+      "end": 616.3,
+      "text": "Uh yeah and all of it is also like you can configure them one by one."
+    },
+    {
+      "start": 616.3,
+      "end": 625.6,
+      "text": "So yeah just wanted to show the demo."
+    },
+    {
+      "start": 625.6,
+      "end": 629.28,
+      "text": "Yeah and sort of like so they sign with like."
+    },
+    {
+      "start": 629.28,
+      "end": 632.4,
+      "text": "They just like sign with the user with a passkey."
+    },
+    {
+      "start": 632.4,
+      "end": 636.64,
+      "text": "Uh that once and that's it that's you complete it."
+    },
+    {
+      "start": 636.64,
+      "end": 644.4,
+      "text": "So reason why i'm showing that is which yeah so i looked at this survey."
+    },
+    {
+      "start": 644.4,
+      "end": 653.04,
+      "text": "Where uh so for every use so this survey basically showed that."
+    },
+    {
+      "start": 653.04,
+      "end": 657.04,
+      "text": "That out of like a sample of 100 people landing on an application."
+    },
+    {
+      "start": 657.04,
+      "end": 661.12,
+      "text": "Only 15 of them actually end up connecting a wallet."
+    },
+    {
+      "start": 661.12,
+      "end": 664.96,
+      "text": "So you see like that friction and then off that 15."
+    },
+    {
+      "start": 664.96,
+      "end": 668.88,
+      "text": "Only 45 percent of them make a first transaction right."
+    },
+    {
+      "start": 668.88,
+      "end": 672.48,
+      "text": "So you have like this very poor like user."
+    },
+    {
+      "start": 672.48,
+      "end": 675.68,
+      "text": "Conversion they're only like seven people out of the original."
+    },
+    {
+      "start": 675.68,
+      "end": 680.08,
+      "text": "Hundred uh they end up making from actually didn't."
+    },
+    {
+      "start": 680.08,
+      "end": 683.2,
+      "text": "Make up end up making interacting with your app right."
+    },
+    {
+      "start": 683.2,
+      "end": 687.12,
+      "text": "So this kind of depends by product but i guess like the."
+    },
+    {
+      "start": 687.12,
+      "end": 691.04,
+      "text": "Important part is like the number of steps the more number of steps you."
+    },
+    {
+      "start": 691.04,
+      "end": 694.72,
+      "text": "Have the more the use of the stock so yeah they."
+    },
+    {
+      "start": 694.72,
+      "end": 697.84,
+      "text": "Might need to like install a wallet they may need to."
+    },
+    {
+      "start": 697.84,
+      "end": 701.84,
+      "text": "Like choose a network buy eat approvals."
+    },
+    {
+      "start": 701.84,
+      "end": 705.52,
+      "text": "Confirmation deposit and then sort of wait for."
+    },
+    {
+      "start": 705.52,
+      "end": 708.88,
+      "text": "Every approval so yeah it just gives them an."
+    },
+    {
+      "start": 708.88,
+      "end": 712.08,
+      "text": "Another like chance to leave."
+    },
+    {
+      "start": 714.91,
+      "end": 718.19,
+      "text": "So that was like that was the demo basically."
+    },
+    {
+      "start": 718.19,
+      "end": 723.63,
+      "text": "Which was like uh you do like you have an authenticated wallet."
+    },
+    {
+      "start": 723.63,
+      "end": 728.19,
+      "text": "And it asks the application to like deposit five usdc."
+    },
+    {
+      "start": 728.19,
+      "end": 732.03,
+      "text": "And underneath the account does the real work."
+    },
+    {
+      "start": 732.03,
+      "end": 736.59,
+      "text": "And it approves the sort of the usdc and deposits."
+    },
+    {
+      "start": 736.59,
+      "end": 741.15,
+      "text": "Into the vault and this sort of the nice thing is they also can run."
+    },
+    {
+      "start": 741.15,
+      "end": 745.15,
+      "text": "In like patches which mean that uh you don't have to."
+    },
+    {
+      "start": 745.15,
+      "end": 748.99,
+      "text": "You don't have to wait for every transaction to land."
+    },
+    {
+      "start": 748.99,
+      "end": 752.59,
+      "text": "And these calls so we have under the hood."
+    },
+    {
+      "start": 752.59,
+      "end": 757.07,
+      "text": "Like a paymaster which covers the gas so the user does not need."
+    },
+    {
+      "start": 757.07,
+      "end": 763.15,
+      "text": "Any eat in their wallet and all like the blockchain so this."
+    },
+    {
+      "start": 763.15,
+      "end": 766.43,
+      "text": "Transaction which we showed this if you see."
+    },
+    {
+      "start": 766.43,
+      "end": 770.11,
+      "text": "This is the a transaction and you see the logs."
+    },
+    {
+      "start": 770.11,
+      "end": 774.19,
+      "text": "And they had a deployment and an approval of these and then had a."
+    },
+    {
+      "start": 774.19,
+      "end": 778.59,
+      "text": "Transfer it's deposited so again like that's."
+    },
+    {
+      "start": 778.59,
+      "end": 782.11,
+      "text": "Something like if you have some app in production you will not show them."
+    },
+    {
+      "start": 782.11,
+      "end": 786.35,
+      "text": "Uh exploring but just for a demo."
+    },
+    {
+      "start": 788.62,
+      "end": 794.38,
+      "text": "So and then yeah so i guess like i wanted to say like."
+    },
+    {
+      "start": 794.94,
+      "end": 798.46,
+      "text": "Like a lot of like the wallet conversations which i've seen."
+    },
+    {
+      "start": 798.46,
+      "end": 801.9,
+      "text": "From like externally they sort of focus just."
+    },
+    {
+      "start": 801.9,
+      "end": 808.32,
+      "text": "On login like you know let's say can we allow users to sign in with."
+    },
+    {
+      "start": 808.32,
+      "end": 812.16,
+      "text": "Passkeys emails you know all the sso stuff."
+    },
+    {
+      "start": 812.16,
+      "end": 815.36,
+      "text": "So that is just the entry layer it answers."
+    },
+    {
+      "start": 815.36,
+      "end": 819.12,
+      "text": "It kind of like it is useful in the way that."
+    },
+    {
+      "start": 819.12,
+      "end": 822.24,
+      "text": "It sort of gets the user into the application."
+    },
+    {
+      "start": 822.32,
+      "end": 828.64,
+      "text": "But then the account layer where what can the account do once the user is."
+    },
+    {
+      "start": 828.64,
+      "end": 832.56,
+      "text": "Inside it's like the more important part."
+    },
+    {
+      "start": 832.56,
+      "end": 836.24,
+      "text": "In my head because oh can it batch cause."
+    },
+    {
+      "start": 836.24,
+      "end": 840.4,
+      "text": "Can it sponsor transactions can users delegate."
+    },
+    {
+      "start": 840.4,
+      "end": 846.0,
+      "text": "A limited activity so it's uh so that is like a very important."
+    },
+    {
+      "start": 846.0,
+      "end": 850.8,
+      "text": "Thing given that you know now a lot of these apps have like."
+    },
+    {
+      "start": 850.8,
+      "end": 854.8,
+      "text": "Very granular like user or like permissions."
+    },
+    {
+      "start": 854.8,
+      "end": 860.72,
+      "text": "So uh yeah and then can the app and can the account support like."
+    },
+    {
+      "start": 860.72,
+      "end": 864.8,
+      "text": "Automations or like some kind of recovery and also."
+    },
+    {
+      "start": 864.8,
+      "end": 871.28,
+      "text": "Are we handling unnecessary like chain boundaries right so uh if."
+    },
+    {
+      "start": 871.28,
+      "end": 873.68,
+      "text": "You if you have used like some app like."
+    },
+    {
+      "start": 873.68,
+      "end": 877.2,
+      "text": "Formal or something you would notice that it doesn't even."
+    },
+    {
+      "start": 877.2,
+      "end": 880.48,
+      "text": "Tell you like what chain it is on right that is like."
+    },
+    {
+      "start": 880.48,
+      "end": 888.8,
+      "text": "That has been a big like ui hurdle and that doesn't need to be um also."
+    },
+    {
+      "start": 888.8,
+      "end": 891.68,
+      "text": "Like if i guess for production apps if."
+    },
+    {
+      "start": 891.68,
+      "end": 897.04,
+      "text": "You already use providers like privy dynamic or any login providers."
+    },
+    {
+      "start": 897.04,
+      "end": 900.56,
+      "text": "You can still use them we can we have like."
+    },
+    {
+      "start": 900.56,
+      "end": 904.08,
+      "text": "Our our docs basically show how to like use that signer."
+    },
+    {
+      "start": 904.08,
+      "end": 908.32,
+      "text": "While providing like these the things on the right hand side."
+    },
+    {
+      "start": 908.32,
+      "end": 915.52,
+      "text": "Uh with our own product so um yeah then the next."
+    },
+    {
+      "start": 915.52,
+      "end": 922.4,
+      "text": "Is yeah this is like what i was talking about for the permissions like."
+    },
+    {
+      "start": 922.4,
+      "end": 927.04,
+      "text": "Uh imagine like a user gives this application."
+    },
+    {
+      "start": 927.04,
+      "end": 930.08,
+      "text": "The permission where you eat the drops drop."
+    },
+    {
+      "start": 930.08,
+      "end": 933.36,
+      "text": "Deposit five usdc into the strategy world."
+    },
+    {
+      "start": 933.44,
+      "end": 939.12,
+      "text": "Never more than 10 usdc in total only into this world at this hour and."
+    },
+    {
+      "start": 939.12,
+      "end": 944.0,
+      "text": "Stop tomorrow so uh."
+    },
+    {
+      "start": 944.0,
+      "end": 950.88,
+      "text": "Yeah so it's this is like so would you like i guess like."
+    },
+    {
+      "start": 950.88,
+      "end": 954.96,
+      "text": "If you had like this kind of intent you won't give this application your."
+    },
+    {
+      "start": 954.96,
+      "end": 958.08,
+      "text": "Private key because it might have other things."
+    },
+    {
+      "start": 958.08,
+      "end": 962.88,
+      "text": "So uh but would you also then every time come to the application."
+    },
+    {
+      "start": 962.88,
+      "end": 967.28,
+      "text": "To approve every five usd deposit manually right."
+    },
+    {
+      "start": 967.28,
+      "end": 970.32,
+      "text": "Uh you probably won't do that so we have like."
+    },
+    {
+      "start": 970.32,
+      "end": 973.52,
+      "text": "This very narrow authority which we need."
+    },
+    {
+      "start": 973.52,
+      "end": 978.24,
+      "text": "Um it should be so it should be able to perform this one useful action."
+    },
+    {
+      "start": 978.24,
+      "end": 982.32,
+      "text": "Under this very specific limits which the users choose."
+    },
+    {
+      "start": 982.32,
+      "end": 985.92,
+      "text": "And this is what our like kernel wallets give us."
+    },
+    {
+      "start": 986.0,
+      "end": 991.9,
+      "text": "This limited access um."
+    },
+    {
+      "start": 991.9,
+      "end": 997.02,
+      "text": "So okay let's like how do how would you like define this."
+    },
+    {
+      "start": 997.02,
+      "end": 1000.3,
+      "text": "Define this permission right the first one is sort of the asset."
+    },
+    {
+      "start": 1000.3,
+      "end": 1003.74,
+      "text": "Which is simple it's like you give it the address."
+    },
+    {
+      "start": 1003.74,
+      "end": 1008.06,
+      "text": "And let's say up in our example we have usdc."
+    },
+    {
+      "start": 1008.06,
+      "end": 1012.94,
+      "text": "Right and then i guess the next one would be destination your two address."
+    },
+    {
+      "start": 1012.94,
+      "end": 1016.94,
+      "text": "Which is another permission like another limit."
+    },
+    {
+      "start": 1016.94,
+      "end": 1021.42,
+      "text": "And and if you interact you it basically is like a allow list which."
+    },
+    {
+      "start": 1021.42,
+      "end": 1024.3,
+      "text": "Allows you to interact with this specific word."
+    },
+    {
+      "start": 1024.3,
+      "end": 1031.02,
+      "text": "And no other and then uh and then the third one is."
+    },
+    {
+      "start": 1031.02,
+      "end": 1034.46,
+      "text": "This specific function so let's say you can do a deposit."
+    },
+    {
+      "start": 1034.46,
+      "end": 1038.22,
+      "text": "But it can't call any withdrawals for example."
+    },
+    {
+      "start": 1038.22,
+      "end": 1041.74,
+      "text": "And then how much would you be able to want to transfer that is your next."
+    },
+    {
+      "start": 1041.74,
+      "end": 1045.26,
+      "text": "Max run these are all the configurable limits."
+    },
+    {
+      "start": 1045.26,
+      "end": 1049.18,
+      "text": "In the wallet contract itself like the kernel contract."
+    },
+    {
+      "start": 1049.18,
+      "end": 1052.3,
+      "text": "And let's say we set that to five usdc."
+    },
+    {
+      "start": 1052.3,
+      "end": 1059.5,
+      "text": "Total allowance is 20 usdc can run once an hour and then yeah it can be."
+    },
+    {
+      "start": 1059.5,
+      "end": 1065.42,
+      "text": "Approved until tomorrow so uh."
+    },
+    {
+      "start": 1065.42,
+      "end": 1069.1,
+      "text": "Behind all these approvals what the agent does."
+    },
+    {
+      "start": 1069.1,
+      "end": 1072.94,
+      "text": "Or like what we do is like give it a session key to the agent."
+    },
+    {
+      "start": 1072.94,
+      "end": 1077.18,
+      "text": "And it has its own like address and this."
+    },
+    {
+      "start": 1077.18,
+      "end": 1081.02,
+      "text": "Uh this is like a very scoped out session key."
+    },
+    {
+      "start": 1081.02,
+      "end": 1089.34,
+      "text": "From the actual account itself and then uh yeah so i guess i i had this."
+    },
+    {
+      "start": 1089.34,
+      "end": 1095.36,
+      "text": "I have like a like a mock demo of what it would look like."
+    },
+    {
+      "start": 1095.36,
+      "end": 1100.56,
+      "text": "In this uh let's say let's say this how it would look like in your."
+    },
+    {
+      "start": 1100.88,
+      "end": 1104.8,
+      "text": "Let's say you know you deposit five usdc enable autopilot."
+    },
+    {
+      "start": 1104.8,
+      "end": 1110.16,
+      "text": "And then let's say you deposit more then it was allowed and this was."
+    },
+    {
+      "start": 1110.16,
+      "end": 1113.84,
+      "text": "Rejected and then you have unauthorized which."
+    },
+    {
+      "start": 1113.84,
+      "end": 1118.32,
+      "text": "Is unsafe and then you have like a let's say you."
+    },
+    {
+      "start": 1118.32,
+      "end": 1122.24,
+      "text": "Know like the agent was monitoring the price and."
+    },
+    {
+      "start": 1122.24,
+      "end": 1126.32,
+      "text": "Your price is dropped and now your autopilot can act again."
+    },
+    {
+      "start": 1126.32,
+      "end": 1131.12,
+      "text": "Invested more and now your recovery guardian is ready."
+    },
+    {
+      "start": 1131.12,
+      "end": 1134.72,
+      "text": "So you recovered back in your safe hands."
+    },
+    {
+      "start": 1134.72,
+      "end": 1145.94,
+      "text": "Original order okay so yeah so yeah i guess these were like some of."
+    },
+    {
+      "start": 1145.94,
+      "end": 1150.18,
+      "text": "The mock demo uh steps where you tried to like."
+    },
+    {
+      "start": 1150.18,
+      "end": 1154.9,
+      "text": "Request 100 usdc which was which we shouldn't have."
+    },
+    {
+      "start": 1154.9,
+      "end": 1158.9,
+      "text": "Gone through or it won't go through and then."
+    },
+    {
+      "start": 1158.9,
+      "end": 1165.06,
+      "text": "Let's say uh so this is all rejected at like a contract level."
+    },
+    {
+      "start": 1165.06,
+      "end": 1169.22,
+      "text": "Which means that you don't even need once the contract is deployed."
+    },
+    {
+      "start": 1169.22,
+      "end": 1173.94,
+      "text": "And once you've said it you can just use your direct your normal."
+    },
+    {
+      "start": 1173.94,
+      "end": 1179.54,
+      "text": "Vm or any of the other libraries which will just show like contract error."
+    },
+    {
+      "start": 1179.54,
+      "end": 1183.7,
+      "text": "Um so it basically just fails before simulation."
+    },
+    {
+      "start": 1183.7,
+      "end": 1187.3,
+      "text": "But we have our own stk2 which has you know like a."
+    },
+    {
+      "start": 1187.3,
+      "end": 1194.42,
+      "text": "Properly sanitized errors and stuff and uh the permission only allows five so."
+    },
+    {
+      "start": 1194.42,
+      "end": 1198.74,
+      "text": "The world position keeps remains unchanged and."
+    },
+    {
+      "start": 1198.74,
+      "end": 1203.3,
+      "text": "Then the check does not depend on having like the agent."
+    },
+    {
+      "start": 1203.3,
+      "end": 1208.5,
+      "text": "Or like having like a compromise agent put it like the same limit."
+    },
+    {
+      "start": 1208.5,
+      "end": 1213.86,
+      "text": "So uh let's do next one so this was like the other."
+    },
+    {
+      "start": 1213.86,
+      "end": 1217.54,
+      "text": "Deposit where uh the permissions and the functions."
+    },
+    {
+      "start": 1217.54,
+      "end": 1220.9,
+      "text": "Weren't in the contract in the."
+    },
+    {
+      "start": 1220.9,
+      "end": 1227.78,
+      "text": "Permissions itself and next one so you have this uh so."
+    },
+    {
+      "start": 1227.78,
+      "end": 1230.5,
+      "text": "This would is i kind of like simulate in my."
+    },
+    {
+      "start": 1230.5,
+      "end": 1234.66,
+      "text": "Head what an agent would do let's say you know like you have."
+    },
+    {
+      "start": 1234.66,
+      "end": 1238.9,
+      "text": "Like some kind of a rules match whatever is trying to monitor it."
+    },
+    {
+      "start": 1238.9,
+      "end": 1242.66,
+      "text": "Prepares a deposit and it checks against the permission contract is."
+    },
+    {
+      "start": 1242.66,
+      "end": 1246.58,
+      "text": "Correct function is correct amount is within limit time window is."
+    },
+    {
+      "start": 1246.58,
+      "end": 1249.14,
+      "text": "Valid agent submits an operation without."
+    },
+    {
+      "start": 1249.14,
+      "end": 1255.38,
+      "text": "Asking for a user approval and uh because we have."
+    },
+    {
+      "start": 1255.38,
+      "end": 1258.74,
+      "text": "In our dashboard we have sponsored gas we allow."
+    },
+    {
+      "start": 1258.74,
+      "end": 1263.58,
+      "text": "Users or we allow the agent to pay the gas."
+    },
+    {
+      "start": 1263.58,
+      "end": 1271.02,
+      "text": "Uh so yeah and this is the recovery setting."
+    },
+    {
+      "start": 1271.02,
+      "end": 1277.5,
+      "text": "So you sort of like um you sort of assume like the user like."
+    },
+    {
+      "start": 1277.5,
+      "end": 1281.74,
+      "text": "Loses your their passkey and then you have."
+    },
+    {
+      "start": 1281.74,
+      "end": 1286.14,
+      "text": "You know you're trying to recover it and we can you can set like a guardian."
+    },
+    {
+      "start": 1286.14,
+      "end": 1289.5,
+      "text": "Which the users can configure or like as."
+    },
+    {
+      "start": 1289.5,
+      "end": 1293.66,
+      "text": "App you can configure for the user and then."
+    },
+    {
+      "start": 1293.66,
+      "end": 1299.82,
+      "text": "The guardian would review this the recovery request and approve like a."
+    },
+    {
+      "start": 1299.82,
+      "end": 1307.02,
+      "text": "Replacement signer and yeah so now you basically."
+    },
+    {
+      "start": 1307.02,
+      "end": 1314.38,
+      "text": "Uh you have like the signer once you sort of have recovered the."
+    },
+    {
+      "start": 1314.38,
+      "end": 1317.82,
+      "text": "Smart account address still remains unchanged."
+    },
+    {
+      "start": 1317.82,
+      "end": 1322.46,
+      "text": "Which means that your your same account would have that usd basa usdc."
+    },
+    {
+      "start": 1322.46,
+      "end": 1325.34,
+      "text": "Balance and that wall position was also be."
+    },
+    {
+      "start": 1325.34,
+      "end": 1331.42,
+      "text": "Unchanged uh so that is a nice way."
+    },
+    {
+      "start": 1331.42,
+      "end": 1335.74,
+      "text": "And let's show maybe yeah let's show like sort of like what."
+    },
+    {
+      "start": 1335.74,
+      "end": 1339.9,
+      "text": "The users saw and what like we have under the hood."
+    },
+    {
+      "start": 1339.9,
+      "end": 1344.94,
+      "text": "Uh so so when like the user signed with the passkey."
+    },
+    {
+      "start": 1344.94,
+      "end": 1350.22,
+      "text": "The passkey is controlled by a signer on a kernel smart account kernel is."
+    },
+    {
+      "start": 1350.22,
+      "end": 1354.3,
+      "text": "Like our smart account architecture name uh when the."
+    },
+    {
+      "start": 1354.3,
+      "end": 1359.1,
+      "text": "Users staff deposit the account batches all the approvals."
+    },
+    {
+      "start": 1359.1,
+      "end": 1362.54,
+      "text": "And the deposits into one atomic transaction."
+    },
+    {
+      "start": 1362.54,
+      "end": 1368.14,
+      "text": "And when the users have have no eat you have like a paymaster which you."
+    },
+    {
+      "start": 1368.14,
+      "end": 1372.38,
+      "text": "Can support in our dashboard which allows so you can have like."
+    },
+    {
+      "start": 1372.38,
+      "end": 1377.9,
+      "text": "This i'll show this uh where is the dashboard okay so."
+    },
+    {
+      "start": 1377.9,
+      "end": 1382.06,
+      "text": "You have these gas policies and you can select for your chain if you."
+    },
+    {
+      "start": 1382.06,
+      "end": 1385.82,
+      "text": "Want to sponsor all transactions or you want to have a chain policy."
+    },
+    {
+      "start": 1385.82,
+      "end": 1392.3,
+      "text": "A contract policy and a wallet policy uh so in this case we would have like."
+    },
+    {
+      "start": 1392.3,
+      "end": 1396.86,
+      "text": "Some kind of a wallet policy where we add the wallet here."
+    },
+    {
+      "start": 1396.86,
+      "end": 1403.9,
+      "text": "Uh so that's the dashboard and then like sort of and then like."
+    },
+    {
+      "start": 1403.9,
+      "end": 1407.66,
+      "text": "The users enable autopilot we sort of have like this scope."
+    },
+    {
+      "start": 1407.66,
+      "end": 1411.58,
+      "text": "Permission for the agent session key and when they require back."
+    },
+    {
+      "start": 1411.58,
+      "end": 1414.78,
+      "text": "Policies the kernel's policy validation."
+    },
+    {
+      "start": 1414.78,
+      "end": 1420.22,
+      "text": "Rejects them and when the users lose their passkey the guardian which is."
+    },
+    {
+      "start": 1420.22,
+      "end": 1423.74,
+      "text": "Authorized either by your app or by the users."
+    },
+    {
+      "start": 1423.74,
+      "end": 1428.14,
+      "text": "Themselves uh authorizes like the recovery action."
+    },
+    {
+      "start": 1428.14,
+      "end": 1431.66,
+      "text": "Um so yeah this is like how all of these."
+    },
+    {
+      "start": 1431.66,
+      "end": 1438.86,
+      "text": "Pieces are together and this is how they sort of fit together where uh."
+    },
+    {
+      "start": 1438.86,
+      "end": 1442.94,
+      "text": "Our main thing is the smart contract or like the Kernel accounts."
+    },
+    {
+      "start": 1442.94,
+      "end": 1450.06,
+      "text": "Uh let's go to a little more in depth um."
+    },
+    {
+      "start": 1450.06,
+      "end": 1454.86,
+      "text": "The i guess i also like didn't want to go over like the actual like."
+    },
+    {
+      "start": 1454.86,
+      "end": 1459.5,
+      "text": "Account extraction stack because most people are familiar in this call."
+    },
+    {
+      "start": 1459.5,
+      "end": 1464.62,
+      "text": "Um but also like you can just read about it online."
+    },
+    {
+      "start": 1464.7,
+      "end": 1473.42,
+      "text": "Um so yeah i guess the first one is like uh yeah you just have you just want."
+    },
+    {
+      "start": 1473.42,
+      "end": 1476.62,
+      "text": "To show how simple it is to batch transactions."
+    },
+    {
+      "start": 1476.62,
+      "end": 1482.54,
+      "text": "Um so you have one you in your case on the ui you would have."
+    },
+    {
+      "start": 1482.54,
+      "end": 1485.66,
+      "text": "One deposit button and you would have these two batch."
+    },
+    {
+      "start": 1485.66,
+      "end": 1490.86,
+      "text": "Transactions on the left and then uh they also like."
+    },
+    {
+      "start": 1490.86,
+      "end": 1493.98,
+      "text": "Execute atomically so they either execute both."
+    },
+    {
+      "start": 1493.98,
+      "end": 1499.9,
+      "text": "Or not so that way um in case like you know the users approve and the deposit."
+    },
+    {
+      "start": 1499.9,
+      "end": 1502.38,
+      "text": "Somehow fails both of them would fail you would not."
+    },
+    {
+      "start": 1502.38,
+      "end": 1506.62,
+      "text": "Have a user with a like sort of like a hanging approval."
+    },
+    {
+      "start": 1506.62,
+      "end": 1511.66,
+      "text": "Um so and then once you have like this create permission."
+    },
+    {
+      "start": 1511.66,
+      "end": 1517.18,
+      "text": "Uh this sort of restricts whatever the contract and the function is."
+    },
+    {
+      "start": 1517.18,
+      "end": 1521.26,
+      "text": "And then you have like the rate limit and everything."
+    },
+    {
+      "start": 1521.26,
+      "end": 1527.34,
+      "text": "And yeah is the actual like documentation has the exact api's and."
+    },
+    {
+      "start": 1527.34,
+      "end": 1529.9,
+      "text": "Everything so you'd have more complete examples."
+    },
+    {
+      "start": 1529.9,
+      "end": 1538.86,
+      "text": "There too but yeah wanted to show this."
+    },
+    {
+      "start": 1538.86,
+      "end": 1543.98,
+      "text": "Yeah so um so yeah these are like the sort of like the table states."
+    },
+    {
+      "start": 1543.98,
+      "end": 1547.98,
+      "text": "Where you have like uh sponsorship and then you would."
+    },
+    {
+      "start": 1547.98,
+      "end": 1552.54,
+      "text": "Have uh some kind of like."
+    },
+    {
+      "start": 1552.54,
+      "end": 1556.46,
+      "text": "Atomic batching and then you would have some kind of subscriptions you would."
+    },
+    {
+      "start": 1556.46,
+      "end": 1559.18,
+      "text": "Have limit orders you would have agents and those are."
+    },
+    {
+      "start": 1559.18,
+      "end": 1565.58,
+      "text": "All the things you could sort of do um and all of these patents everyone."
+    },
+    {
+      "start": 1565.58,
+      "end": 1569.9,
+      "text": "Has like a recovery path um like our kernel wallets has."
+    },
+    {
+      "start": 1569.9,
+      "end": 1571.74,
+      "text": "Been in production for like two three years."
+    },
+    {
+      "start": 1571.74,
+      "end": 1576.06,
+      "text": "So we have seen a lot of you know edge cases so we have a lot of like."
+    },
+    {
+      "start": 1576.06,
+      "end": 1580.14,
+      "text": "Surface area for recovery so yeah you can use it for like some."
+    },
+    {
+      "start": 1580.14,
+      "end": 1584.46,
+      "text": "Kind of like recurring deposits subscriptions."
+    },
+    {
+      "start": 1584.46,
+      "end": 1587.18,
+      "text": "Etc etc."
+    },
+    {
+      "start": 1588.06,
+      "end": 1591.74,
+      "text": "Anyway you sort of think about like you know the account."
+    },
+    {
+      "start": 1591.74,
+      "end": 1600.38,
+      "text": "May outlive its original credential and also i wanted to share smart."
+    },
+    {
+      "start": 1600.38,
+      "end": 1606.22,
+      "text": "Routing addresses uh which is like smart routing."
+    },
+    {
+      "start": 1606.22,
+      "end": 1608.54,
+      "text": "Addresses are more like deposit addresses."
+    },
+    {
+      "start": 1608.54,
+      "end": 1613.5,
+      "text": "Where um you know like say your user is on other chain."
+    },
+    {
+      "start": 1613.5,
+      "end": 1617.42,
+      "text": "And you want to reach on like say arbitrum and their funds are on base."
+    },
+    {
+      "start": 1617.42,
+      "end": 1621.26,
+      "text": "Something right so they still need to get that assets."
+    },
+    {
+      "start": 1621.26,
+      "end": 1625.18,
+      "text": "Into the application so what we do is uh you call the."
+    },
+    {
+      "start": 1625.18,
+      "end": 1628.62,
+      "text": "API it creates a deposit address on base."
+    },
+    {
+      "start": 1628.62,
+      "end": 1633.18,
+      "text": "And has a sort of like already configured action set."
+    },
+    {
+      "start": 1633.18,
+      "end": 1637.66,
+      "text": "So we give you an address we give the user an address on base."
+    },
+    {
+      "start": 1637.66,
+      "end": 1641.18,
+      "text": "They sort of just send it there and behind the scenes."
+    },
+    {
+      "start": 1641.18,
+      "end": 1645.26,
+      "text": "We'll bridge it for you and after bridging we'll uh."
+    },
+    {
+      "start": 1645.26,
+      "end": 1648.06,
+      "text": "Let's say you have some kind of a configured action set let's say you."
+    },
+    {
+      "start": 1648.06,
+      "end": 1651.98,
+      "text": "Want like the user's usdc to be deposited to."
+    },
+    {
+      "start": 1651.98,
+      "end": 1654.46,
+      "text": "Like let's say a morph of word or something to."
+    },
+    {
+      "start": 1654.46,
+      "end": 1657.98,
+      "text": "On some yield on the background that is you can just."
+    },
+    {
+      "start": 1657.98,
+      "end": 1663.26,
+      "text": "Configure it um so yeah this basically allows."
+    },
+    {
+      "start": 1663.26,
+      "end": 1669.34,
+      "text": "That you have you're meeting the users where they are."
+    },
+    {
+      "start": 1669.34,
+      "end": 1672.62,
+      "text": "And then also it's like secure enough where."
+    },
+    {
+      "start": 1672.62,
+      "end": 1675.82,
+      "text": "It's not like some kind of unbounded space where you have like these two."
+    },
+    {
+      "start": 1675.82,
+      "end": 1678.94,
+      "text": "Different things they can do and then you know somehow it gets."
+    },
+    {
+      "start": 1678.94,
+      "end": 1682.94,
+      "text": "Lost uh because in in case let's say."
+    },
+    {
+      "start": 1682.94,
+      "end": 1686.46,
+      "text": "The transaction doesn't go through it gets refunded."
+    },
+    {
+      "start": 1686.46,
+      "end": 1689.66,
+      "text": "Either on the source chain or the destination chain whichever way wherever."
+    },
+    {
+      "start": 1689.66,
+      "end": 1694.54,
+      "text": "You want uh so yeah."
+    },
+    {
+      "start": 1694.54,
+      "end": 1700.06,
+      "text": "Uh we have our demo for that too."
+    },
+    {
+      "start": 1701.66,
+      "end": 1707.5,
+      "text": "I'll just post that later but um it just the demo shows like how to how."
+    },
+    {
+      "start": 1707.5,
+      "end": 1713.02,
+      "text": "Would you create an address and then uh like a deposit and also like."
+    },
+    {
+      "start": 1713.02,
+      "end": 1717.02,
+      "text": "Because like bridging is not like there's some fee to the bridging."
+    },
+    {
+      "start": 1717.02,
+      "end": 1719.1,
+      "text": "Let's say you know 10 cents or something."
+    },
+    {
+      "start": 1719.1,
+      "end": 1723.9,
+      "text": "We sort of restrict how much amount we have so we have like a minimum."
+    },
+    {
+      "start": 1723.9,
+      "end": 1727.02,
+      "text": "Deposit amount and that way you know the users."
+    },
+    {
+      "start": 1727.02,
+      "end": 1731.66,
+      "text": "Don't have an insane like slippage."
+    },
+    {
+      "start": 1731.74,
+      "end": 1736.62,
+      "text": "Um and then i guess yeah this is just."
+    },
+    {
+      "start": 1736.62,
+      "end": 1739.9,
+      "text": "This is like the QR code for the docs."
+    },
+    {
+      "start": 1739.9,
+      "end": 1743.82,
+      "text": "Or you can just go to docs.ZeroDev.app uh."
+    },
+    {
+      "start": 1743.82,
+      "end": 1747.1,
+      "text": "Yeah just think about any product you're building and think about you."
+    },
+    {
+      "start": 1747.1,
+      "end": 1751.5,
+      "text": "Know like the most annoying set of actions you're."
+    },
+    {
+      "start": 1751.5,
+      "end": 1756.3,
+      "text": "Having the users take which is like you know several transactions."
+    },
+    {
+      "start": 1756.3,
+      "end": 1760.78,
+      "text": "Um yeah turn all of that into like sort of just one."
+    },
+    {
+      "start": 1760.78,
+      "end": 1767.18,
+      "text": "User intent and yeah and then you sort of also."
+    },
+    {
+      "start": 1767.18,
+      "end": 1772.62,
+      "text": "Don't have unrestricted control."
+    },
+    {
+      "start": 1772.86,
+      "end": 1777.98,
+      "text": "Uh or you if you're like if your app has like some kind of like automation or."
+    },
+    {
+      "start": 1777.98,
+      "end": 1780.54,
+      "text": "Something then yeah then so you can like sort of."
+    },
+    {
+      "start": 1780.54,
+      "end": 1785.98,
+      "text": "Define the permissions and in a very like."
+    },
+    {
+      "start": 1785.98,
+      "end": 1795.47,
+      "text": "In using our SDK basically so yeah you can uh i guess in the docs."
+    },
+    {
+      "start": 1795.47,
+      "end": 1803.25,
+      "text": "There will be like a bullet quick start and stuff too so."
+    },
+    {
+      "start": 1803.33,
+      "end": 1810.05,
+      "text": "Yeah you'll have um quick start here then you would have onboarding."
+    },
+    {
+      "start": 1810.05,
+      "end": 1814.37,
+      "text": "Then you have smart account and onramp has the smart."
+    },
+    {
+      "start": 1814.37,
+      "end": 1820.53,
+      "text": "Uh routing address and i think this is the portal."
+    },
+    {
+      "start": 1820.53,
+      "end": 1823.97,
+      "text": "So you can sort of use whatever your address is."
+    },
+    {
+      "start": 1823.97,
+      "end": 1831.57,
+      "text": "Chain uh let's say you want to go to solana and."
+    },
+    {
+      "start": 1831.57,
+      "end": 1835.73,
+      "text": "The program and then yeah you have support."
+    },
+    {
+      "start": 1835.73,
+      "end": 1839.81,
+      "text": "Native tokens too so yeah this sort of generates like a."
+    },
+    {
+      "start": 1839.81,
+      "end": 1851.04,
+      "text": "Smart routing address um yeah i guess i am happy to answer any."
+    },
+    {
+      "start": 1851.04,
+      "end": 1853.44,
+      "text": "Questions i know like the demo was pretty."
+    },
+    {
+      "start": 1853.44,
+      "end": 1858.48,
+      "text": "Short but yeah pretty short but pretty."
+    },
+    {
+      "start": 1858.48,
+      "end": 1863.12,
+      "text": "Packed with information um very good one."
+    },
+    {
+      "start": 1863.12,
+      "end": 1866.48,
+      "text": "So yeah let's open the floor for a few questions if anyone."
+    },
+    {
+      "start": 1866.48,
+      "end": 1870.64,
+      "text": "Wants to ask something just feel free to raise your hand or just drop your."
+    },
+    {
+      "start": 1870.64,
+      "end": 1874.72,
+      "text": "Questions here in the chat we already have one uh from."
+    },
+    {
+      "start": 1874.72,
+      "end": 1880.72,
+      "text": "Lab siloed vine uh here in the chat uh kunal if you don't mind answering it."
+    },
+    {
+      "start": 1880.72,
+      "end": 1886.72,
+      "text": "So love the autopilot request slide as we build agentic workflows on zero."
+    },
+    {
+      "start": 1886.72,
+      "end": 1890.64,
+      "text": "Dev what is your recommended pattern for."
+    },
+    {
+      "start": 1890.72,
+      "end": 1896.48,
+      "text": "Layering dynamic market dependent guardrails like oracle lab or."
+    },
+    {
+      "start": 1896.48,
+      "end": 1900.56,
+      "text": "Order book depth checks on top of ZeroDev static."
+    },
+    {
+      "start": 1900.56,
+      "end": 1906.0,
+      "text": "Permissions yeah so actually our latest like uh."
+    },
+    {
+      "start": 1906.0,
+      "end": 1910.08,
+      "text": "Latest kernel wallets they allow you to define your own like."
+    },
+    {
+      "start": 1910.08,
+      "end": 1916.24,
+      "text": "Condition it has like uh it has like this uh extendable."
+    },
+    {
+      "start": 1916.24,
+      "end": 1919.84,
+      "text": "Interface where it allows you to like have defined some."
+    },
+    {
+      "start": 1919.84,
+      "end": 1922.72,
+      "text": "Uh condition which allows which has like a."
+    },
+    {
+      "start": 1922.72,
+      "end": 1926.8,
+      "text": "Boolean true or false so within that condition you would have like some kind."
+    },
+    {
+      "start": 1926.8,
+      "end": 1931.36,
+      "text": "Of like you know uh some kind of like oracle like."
+    },
+    {
+      "start": 1931.36,
+      "end": 1934.4,
+      "text": "You know what is a chain link oracle bitcoin."
+    },
+    {
+      "start": 1934.4,
+      "end": 1939.2,
+      "text": "Price less than 80k or something that could have your if it returns true."
+    },
+    {
+      "start": 1939.2,
+      "end": 1942.24,
+      "text": "Will allow it if it doesn't return proof will."
+    },
+    {
+      "start": 1942.24,
+      "end": 1948.34,
+      "text": "Not allow it so it checks in real time."
+    },
+    {
+      "start": 1948.34,
+      "end": 1953.06,
+      "text": "This is this will be on the kernel before which um."
+    },
+    {
+      "start": 1953.06,
+      "end": 1956.98,
+      "text": "Which we have the contracts and everything deployed but i don't know i."
+    },
+    {
+      "start": 1956.98,
+      "end": 1973.38,
+      "text": "Think you might need like a beta stk or something i hope that answers your."
+    },
+    {
+      "start": 1973.38,
+      "end": 1977.22,
+      "text": "Question uh silver vine uh does anyone have."
+    },
+    {
+      "start": 1977.22,
+      "end": 1981.86,
+      "text": "Any more uh questions once again feel free to drop them here in the chat."
+    },
+    {
+      "start": 1981.86,
+      "end": 1986.02,
+      "text": "Or raise your hand uh also don't forget that we have our."
+    },
+    {
+      "start": 1986.02,
+      "end": 1990.5,
+      "text": "Discord channel um with the open house channel uh our."
+    },
+    {
+      "start": 1990.5,
+      "end": 1994.26,
+      "text": "Engineers team is there our dev rel team is there so if you have any."
+    },
+    {
+      "start": 1994.26,
+      "end": 1998.42,
+      "text": "Questions if you need support um just feel free to."
+    },
+    {
+      "start": 1998.42,
+      "end": 2002.58,
+      "text": "Drop your questions there and our team will answer your."
+    },
+    {
+      "start": 2002.58,
+      "end": 2022.7,
+      "text": "Questions as best as possible yeah exactly so kunal is going to."
+    },
+    {
+      "start": 2022.7,
+      "end": 2027.58,
+      "text": "Drop the slides for this presentation uh on our open house channel on."
+    },
+    {
+      "start": 2027.58,
+      "end": 2030.3,
+      "text": "Discord so if you want to take a look at it."
+    },
+    {
+      "start": 2030.3,
+      "end": 2035.82,
+      "text": "Again and review it more carefully just go to the open house to check the."
+    },
+    {
+      "start": 2035.82,
+      "end": 2040.22,
+      "text": "Slides okay we have another question here."
+    },
+    {
+      "start": 2040.22,
+      "end": 2047.18,
+      "text": "Kunal from you list davy um we have a mobile app producing."
+    },
+    {
+      "start": 2047.18,
+      "end": 2053.66,
+      "text": "Signed compute proofs and an arbitrum registry anchoring those proofs could."
+    },
+    {
+      "start": 2053.66,
+      "end": 2057.5,
+      "text": "ZeroDev let us give the app an hourly scope."
+    },
+    {
+      "start": 2057.5,
+      "end": 2061.5,
+      "text": "Permission to sponsor and submit registry transactions."
+    },
+    {
+      "start": 2061.5,
+      "end": 2065.98,
+      "text": "Without asking the user to sign every proof."
+    },
+    {
+      "start": 2065.98,
+      "end": 2072.7,
+      "text": "Um i we have like a mobile we have mobile app support so that would."
+    },
+    {
+      "start": 2072.7,
+      "end": 2080.22,
+      "text": "Work but um i would need to see how the sign transit like the signed."
+    },
+    {
+      "start": 2080.22,
+      "end": 2086.38,
+      "text": "Compute proofs are like verified on chain."
+    },
+    {
+      "start": 2086.38,
+      "end": 2098.93,
+      "text": "To know exactly for sure but i would think this is possible yeah but uh."
+    },
+    {
+      "start": 2098.93,
+      "end": 2103.17,
+      "text": "If you have like a bit more detail i can answer it on the discord too."
+    },
+    {
+      "start": 2103.17,
+      "end": 2123.39,
+      "text": "So yeah perfect does anyone have any more uh questions once again feel."
+    },
+    {
+      "start": 2123.39,
+      "end": 2143.84,
+      "text": "Free to drop them here in the chat okay i don't think anyone has any."
+    },
+    {
+      "start": 2143.84,
+      "end": 2147.92,
+      "text": "More questions which is a good sign um so."
+    },
+    {
+      "start": 2147.92,
+      "end": 2152.32,
+      "text": "Yeah once again as a reminder guys um don't forget that we have our open."
+    },
+    {
+      "start": 2152.32,
+      "end": 2157.2,
+      "text": "House channel on our discord kunal is gonna drop his slides."
+    },
+    {
+      "start": 2157.2,
+      "end": 2162.0,
+      "text": "There so if anyone wants to review the the slides once again just go to."
+    },
+    {
+      "start": 2162.0,
+      "end": 2164.24,
+      "text": "The open house channel and check it out."
+    },
+    {
+      "start": 2164.24,
+      "end": 2168.64,
+      "text": "Uh if you have any more questions once again feel free to drop them in the."
+    },
+    {
+      "start": 2168.64,
+      "end": 2172.48,
+      "text": "Open house channel for our dev rel team and engineers team."
+    },
+    {
+      "start": 2172.48,
+      "end": 2175.68,
+      "text": "And yeah once again thank you so much for being here."
+    },
+    {
+      "start": 2176.32,
+      "end": 2179.68,
+      "text": "Don't forget that we are going to have another workshop."
+    },
+    {
+      "start": 2179.68,
+      "end": 2186.8,
+      "text": "Following this one with gmx which starts if i'm not mistaken in 25."
+    },
+    {
+      "start": 2186.8,
+      "end": 2191.12,
+      "text": "Minutes from now so feel free to join that workshop."
+    },
+    {
+      "start": 2191.12,
+      "end": 2194.8,
+      "text": "It's a very good one and yeah once again thank you so much for being."
+    },
+    {
+      "start": 2194.8,
+      "end": 2197.6,
+      "text": "Here i'm going to give you back 10 minutes."
+    },
+    {
+      "start": 2197.6,
+      "end": 2200.88,
+      "text": "Uh and hope to see you in the next one."
+    },
+    {
+      "start": 2200.88,
+      "end": 2205.52,
+      "text": "And let's keep building thank you everyone."
+    },
+    {
+      "start": 2205.52,
+      "end": 2209.04,
+      "text": "Thanks for attending everyone."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[workspace]
+members = ["crates/vinetrail_core", "crates/vinetrail_solana_inspector"]
+resolver = "2"
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

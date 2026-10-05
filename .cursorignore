@@ -1,0 +1,11 @@
+# Exclude non-code assets and heavy docs from Cursor Indexing
+#docs/
+coverage/
+dist/
+node_modules/
+public/
+!public/brand/logo_vinetrail.jpg
+*.png
+*.gif
+*.jpg
+*.log

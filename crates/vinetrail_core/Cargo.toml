@@ -1,0 +1,13 @@
+[package]
+name = "vinetrail_core"
+version = "0.1.0"
+edition = "2021"
+license = "BUSL-1.1"
+description = "SliverVine no_std soil resistance + session core (Wasm + rlib)"
+
+[features]
+default = ["std"]
+std = []
+
+[lib]
+crate-type = ["rlib", "cdylib"]

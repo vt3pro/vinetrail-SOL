@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sol-toxic-01",
+    "entry": "guardAgentPreSign",
+    "input": {
+      "intent": { "maxSlippageBps": 5, "soilResistanceThreshold": 5, "targetMarket": "SOL" },
+      "soil": {
+        "symbol": "SOL",
+        "pythPriceUsd": 100,
+        "jupiterDepthUsd": 1000,
+        "orcaDepthUsd": 1000,
+        "orderSizeUsd": 500,
+        "at": "2026-09-12T06:00:00.000Z"
+      },
+      "atMs": 1726120800000
+    },
+    "expect": { "allowed": false }
+  },
+  {
+    "id": "sol-toxic-02",
+    "entry": "checkSoilResistance",
+    "input": {
+      "symbol": "SOL-PERP",
+      "pythPriceUsd": 150,
+      "jupiterDepthUsd": 50,
+      "orcaDepthUsd": 50,
+      "maxSlippage": 0.01,
+      "at": "2026-09-12T06:00:00.000Z"
+    },
+    "expect": { "tripped": true }
+  },
+  {
+    "id": "sol-toxic-03",
+    "entry": "evaluateGatewayRules",
+    "input": {
+      "symbol": "SOL",
+      "payloadPoison": true,
+      "soil": {
+        "symbol": "SOL",
+        "pythPriceUsd": 150,
+        "jupiterDepthUsd": 500000,
+        "orcaDepthUsd": 500000,
+        "at": "2026-09-12T06:00:00.000Z"
+      }
+    },
+    "expect": { "failClosed": true }
+  },
+  {
+    "id": "sol-toxic-04",
+    "entry": "checkSoilResistance",
+    "input": {
+      "chainId": 900,
+      "symbol": "MEME",
+      "allowedVenues": ["jupiter", "orca", "sanctuary_vault"],
+      "targetVenue": "unauthorized_program",
+      "pythPriceUsd": 1,
+      "jupiterDepthUsd": 200000,
+      "orcaDepthUsd": 200000,
+      "at": "2026-09-12T06:00:00.000Z"
+    },
+    "expect": { "reasonIncludes": "VENUE_DRIFT_REJECTED" }
+  },
+  {
+    "id": "sol-toxic-05",
+    "entry": "evaluateAgentExoMeshGuard",
+    "input": {
+      "intent": { "maxSlippageBps": 10, "soilResistanceThreshold": 10, "targetMarket": "SOL-PERP" },
+      "soil": {
+        "symbol": "SOL-PERP",
+        "pythPriceUsd": 150,
+        "jupiterDepthUsd": 50000,
+        "orcaDepthUsd": 50000,
+        "orderSizeUsd": 5000,
+        "at": "2026-09-12T06:00:00.000Z"
+      },
+      "atMs": 1726120800000
+    },
+    "expect": { "deadmanTriggered": true }
+  },
+  {
+    "id": "sol-toxic-06",
+    "entry": "guardAgentPreSign",
+    "input": {
+      "intent": { "maxSlippageBps": 50, "soilResistanceThreshold": 50, "targetMarket": "SOL" },
+      "soil": {
+        "symbol": "SOL",
+        "chainId": 900,
+        "venueKey": "jupiter",
+        "allowedVenues": ["jupiter", "orca", "sanctuary_vault"],
+        "pythPriceUsd": 150,
+        "jupiterDepthUsd": 500000,
+        "orcaDepthUsd": 500000,
+        "orderSizeUsd": 500,
+        "at": "2026-09-12T06:00:00.000Z"
+      },
+      "atMs": 1726120800000
+    },
+    "expect": { "allowed": true }
+  }
+]
